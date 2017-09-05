@@ -1,6 +1,5 @@
 version: 2
 jobs:
-  working_directory: ~/repo
   build:
      docker:
       - image: python:2.7
